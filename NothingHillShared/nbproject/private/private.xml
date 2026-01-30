@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/CartItemDTO.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/CartLine.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/BookDTO.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/service/BookServiceLocal.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/util/DBConnection.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/service/UserServiceLocal.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/UserDTO.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/LoginResult.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/OrderItemLine.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/OrderSummaryDTO.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/service/OrderServiceLocal.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillShared/src/dto/AdminOrderRowDTO.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             version="2.2"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
+                                 http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+
+  <persistence-unit name="NothingHillPu" transaction-type="JTA">
+    <!-- Must match the JNDI name you configure in GlassFish exactly (case-sensitive) -->
+    <jta-data-source>jdbc/nothinghill</jta-data-source>
+
+    <!-- Optional: list of classes or leave to auto-discover classes in EJB jar -->
+    <exclude-unlisted-classes>false</exclude-unlisted-classes>
+
+    <properties>
+      <!-- do not auto-create schema in production; change to "create" or "drop-and-create" only if desired -->
+      <property name="javax.persistence.schema-generation.database.action" value="none"/>
+      <!-- EclipseLink logging -->
+      <property name="eclipselink.logging.level" value="INFO"/>
+      <!-- Small timeout safety (optional) -->
+      <property name="eclipselink.jdbc.read-concurrency" value="true"/>
+    </properties>
+  </persistence-unit>
+
+</persistence>

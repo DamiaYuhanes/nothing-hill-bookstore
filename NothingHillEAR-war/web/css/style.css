@@ -1,0 +1,179 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 16 Jan 2026, 4:06:57 am
+    Author     : Damia
+*/
+
+* { box-sizing: border-box; }
+
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f2f4f7;
+}
+
+/* whole screen split */
+.page{
+    display:flex;
+    min-height:100vh;
+}
+
+/* left menu */
+.sidebar{
+    width:260px;
+    background:#243642;
+    color:#fff;
+    padding:18px 0;
+}
+
+.sidebar .logo-box{
+    padding:0 18px 18px 18px;
+    border-bottom:1px solid rgba(255,255,255,0.12);
+}
+
+.sidebar .logo-box img{
+    width:210px;
+    max-width:100%;
+    border-radius:4px;
+    display:block;
+}
+
+/* menu items */
+.menu{
+    margin-top:18px;
+    display:flex;
+    flex-direction:column;
+}
+
+.menu a{
+    color:#fff;
+    text-decoration:none;
+    padding:14px 18px;
+    opacity:0.95;
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.menu a:hover{
+    background:rgba(255,255,255,0.08);
+}
+
+.menu a.active{
+    background:rgba(255,255,255,0.12);
+    border-left:5px solid #f2c84b;   /* yellow bar like screenshot */
+    padding-left:13px;              /* keep text aligned after border */
+}
+
+/* main area */
+.main{
+    flex:1;
+    padding:28px 18px;
+    display:flex;
+    justify-content:center;
+}
+
+/* center column like screenshot */
+.center-col{
+    width:900px;
+    max-width:100%;
+}
+
+/* top big logo */
+.top-logo{
+    display:flex;
+    justify-content:center;
+    margin-top:10px;
+    margin-bottom:22px;
+}
+
+.top-logo img{
+    width:360px;
+    max-width:95%;
+    display:block;
+}
+
+/* login card */
+.card{
+    background:#fff;
+    border-radius:6px;
+    box-shadow:0 8px 18px rgba(0,0,0,0.08);
+    padding:34px 48px;
+    width:760px;
+    max-width:100%;
+    margin:0 auto;
+}
+
+.field-label{
+    font-size:12px;
+    color:#4a4a4a;
+    letter-spacing:0.7px;
+    font-weight:700;
+    margin-bottom:8px;
+}
+
+.input{
+    width:100%;
+    padding:12px 12px;
+    border:1px solid #d9dee5;
+    border-radius:2px;
+    outline:none;
+    margin-bottom:26px;
+}
+
+.input:focus{
+    border-color:#9aaaba;
+}
+
+.row{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-top:-10px;
+    margin-bottom:18px;
+    color:#555;
+    font-size:13px;
+}
+
+/* login button (outline like screenshot) */
+.btn{
+    width:100%;
+    padding:14px;
+    border:2px solid #2f3f4f;
+    background:transparent;
+    color:#2f3f4f;
+    font-weight:800;
+    letter-spacing:1px;
+    cursor:pointer;
+}
+
+.btn:hover{
+    background:#2f3f4f;
+    color:#fff;
+}
+
+.links{
+    text-align:center;
+    margin-top:18px;
+    font-size:13px;
+    color:#555;
+}
+
+.links a{
+    color:#2f3f4f;
+    text-decoration:none;
+}
+
+.links a:hover{
+    text-decoration:underline;
+}
+
+.error{
+    color:#b00020;
+    font-weight:700;
+    margin-bottom:14px;
+    text-align:center;
+}

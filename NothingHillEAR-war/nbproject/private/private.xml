@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/css/style.css</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/login.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/home.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/LoginServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/index.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/LogoutServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/register.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/RegisterServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/webpages.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/about.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/books.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/cart.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/AddToCartServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/CartServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/AdminDashboardServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/index.html</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/BooksServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/AddProductServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/addProduct.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/ManageProductsServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/EditProductServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/manageProducts.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/editProduct.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/admin_nav.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/ManageUsersServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/AddUsersServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/ToggleUserActiveServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/manageUsers.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/addUser.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/editUser.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/EditUserServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/ToggleUserStatusServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/CheckoutServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/checkout.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/OrderHistoryServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/orderHistory.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/AdminManageOrdersServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/admin_manage_orders.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/DeleteUserServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/web/bookDetails.jsp</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/BookDetailsServlet.java</file>
+            <file>file:/C:/Users/Damia/Documents/NetBeansProjects/NothingHillEAR/NothingHillEAR-war/src/java/web/CancelOrderServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
